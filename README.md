@@ -1,8 +1,7 @@
 # Ineffable Bank
 [Access it here](https://ineffable14.000webhostapp.com/)  
 Preview in pc
-
-![Untitled]![Screenshot (3)](https://user-images.githubusercontent.com/87379681/125480967-b7ec3d53-a9f0-4a12-a55a-ba2cdbc869d1.png)
+[Screenshot (3)](https://user-images.githubusercontent.com/87379681/125480967-b7ec3d53-a9f0-4a12-a55a-ba2cdbc869d1.png)
 
 # Stack used -
 
