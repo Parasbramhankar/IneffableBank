@@ -1,8 +1,7 @@
 # Ineffable Bank
 [Access it here](https://ineffable14.000webhostapp.com/)  
 Preview in pc
-[Screenshot (3)](https://user-images.githubusercontent.com/87379681/125480967-b7ec3d53-a9f0-4a12-a55a-ba2cdbc869d1.png)
-
+![IneffableBank](https://user-images.githubusercontent.com/87379681/125481531-f18f8032-b2fe-4a68-b4ae-9d3bb63d2cf5.png)
 # Stack used -
 
 Front-end : HTML, CSS, Bootstrap & Javascript
